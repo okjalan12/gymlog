@@ -1,2 +1,3 @@
-# gymlog
-An app to plan training sessions and keep track of training load
+# GymLog
+
+Offline workout planner and weight tracker (PWA). Data is stored only on your phone.
